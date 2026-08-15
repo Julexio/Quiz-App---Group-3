@@ -1,1 +1,1 @@
-# Quiz-App---Group-3
+# Quiz App Group 3
