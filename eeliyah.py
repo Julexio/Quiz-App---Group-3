@@ -22,5 +22,11 @@ def add_questions():
 
     print("Question added succesfully!")
 
+while True:
+    add_questions()
 
-add_questions()
+    again = input("Do you want to add another question? (y/n):").upper()
+
+    if again == "N":
+        print("Done adding questions!.")
+        break
